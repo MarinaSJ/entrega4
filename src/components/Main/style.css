@@ -1,0 +1,22 @@
+.main{
+    width: 80%;
+    margin: 20px auto;
+}
+
+.main-header{
+    background-color: lightgray;
+    width: 100%;
+    display: flex;
+    margin: 30px auto;
+    justify-content: space-between
+}
+
+.main-header h4{
+    margin:20px;
+}
+
+.main-conteiner{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

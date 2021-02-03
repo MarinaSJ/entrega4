@@ -1,0 +1,26 @@
+.list{
+    width: 40%;
+    background-color: darkolivegreen;
+    display: flex;
+    color: white;
+    height: 100%;
+}
+
+.list ul{
+    list-style:none;
+    padding:0;
+    width: 100%;
+}
+
+.list ul li{
+    padding-left: 10px;
+    display: flex;
+    align-items: center;
+    height: 30px;
+}
+
+.list ul li:first-child,
+.list ul li:nth-child(3){
+    background-color: darkseagreen;
+    color: black;
+}
