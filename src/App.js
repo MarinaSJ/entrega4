@@ -20,7 +20,7 @@ function App() {
       <Main 
       name="Marina" 
       course="Engenharia" 
-      periodo="1º" 
+      periodo="Período: 1º" 
       matricula="Matrícula: xxxxxxxxx"
       nivel="Nivel: Graduação" 
       />

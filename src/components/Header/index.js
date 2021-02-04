@@ -3,7 +3,7 @@ import React from 'react';
 import './style.css';
 
 
-function Header(title,title1,title2,title3,title4,title5,title6){
+function Header({title,title1,title2,title3,title4,title5,title6}){
     return(
         <div className="header">
             <h1>{title}</h1>
